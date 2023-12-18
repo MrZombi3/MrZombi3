@@ -1,6 +1,6 @@
 # *Welcome to Neverty.exe*
 <p align="center">
-[<a href="https://github.com/Nevertyexe777">  Here</a> ] - 
+[<a href="https://github.com/Nevertyexe777">  Here</a> ] 
 
 </p>
 
