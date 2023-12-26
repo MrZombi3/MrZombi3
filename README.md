@@ -24,5 +24,4 @@ If you see me in your Minecraft world!
 You have to leave
 if you don't do this, Neverty.exe will take control of your computer
 and he will harass you. . .
-and you will end up in the DARK WEB
 ```
