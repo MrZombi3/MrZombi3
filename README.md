@@ -1,27 +1,14 @@
-# *Welcome to Neverty.exe*
+# *Welcome to Zombi3.exe*
 <p align="center">
-[<a href="https://github.com/Nevertyexe777">  Here</a> ] 
+[<a href="https://github.com/MrZombi3">  Here</a> ] 
 
 </p>
 
-### *Who I am:*
-> - Creeper Killer
-> - I'm not a human
-> - Create By Neverty7
-> - Strange creature
-> - dangerous creature
-> - filled with blood
-> - loves violence
-> - stalker
-
+### *I love:*
+> - Create viruses
+> - Create DDOS
+> - Create hacking tools
 #
 
-### *Minecraft:*
-
-```
-If you see me in your Minecraft world!
-
-You have to leave
-if you don't do this, Neverty.exe will take control of your computer
-and he will harass you. . .
-```
+<h3 align="center">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
